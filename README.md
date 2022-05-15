@@ -1,3 +1,3 @@
 #Readme
 
-Woop woop
+This program explores some operators and how they can be used with lists
